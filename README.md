@@ -15,4 +15,4 @@ An AI-powered clinical decision support tool designed for rural healthcare worke
 - Severity scoring
 - Deployment
 ## Disclaimer
-This tool is for educational purposes only and does not replace professional medical advice.
+This tool is still in testing phrases and is for educational purposes only and does not replace professional medical advice.
